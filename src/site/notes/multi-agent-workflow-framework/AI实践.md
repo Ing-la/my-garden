@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/AI实践/","noteIcon":""}
+{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/ai/","noteIcon":""}
 ---
 
 

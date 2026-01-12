@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/high-value-customer-product-analysis-demo/README/","noteIcon":""}
+{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/high-value-customer-product-analysis-demo/readme/","noteIcon":""}
 ---
 
 

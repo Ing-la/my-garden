@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/README/","noteIcon":""}
+{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/readme/","noteIcon":""}
 ---
 
 

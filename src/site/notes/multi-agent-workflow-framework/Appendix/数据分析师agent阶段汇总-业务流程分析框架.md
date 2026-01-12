@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/Appendix/数据分析师agent阶段汇总-业务流程分析框架/","noteIcon":""}
+{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/appendix/agent/","noteIcon":""}
 ---
 
 

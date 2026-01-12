@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AI-Knowledge/工具文档/GitHub 简明指南/","noteIcon":""}
+{"dg-publish":true,"permalink":"/ai-knowledge//git-hub/","noteIcon":""}
 ---
 
 

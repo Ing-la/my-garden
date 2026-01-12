@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AI-Knowledge/Agent/AI技能系统（Skills）深度解析：从混乱到秩序/","noteIcon":""}
+{"dg-publish":true,"permalink":"/ai-knowledge/agent/ai-skills/","noteIcon":""}
 ---
 
 

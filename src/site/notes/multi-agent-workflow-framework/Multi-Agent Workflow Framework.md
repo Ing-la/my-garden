@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/Multi-Agent Workflow Framework/","noteIcon":""}
+{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/multi-agent-workflow-framework/","noteIcon":""}
 ---
 
 

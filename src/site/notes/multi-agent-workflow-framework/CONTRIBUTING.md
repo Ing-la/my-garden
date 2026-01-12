@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/CONTRIBUTING/","noteIcon":""}
+{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/contributing/","noteIcon":""}
 ---
 
 
