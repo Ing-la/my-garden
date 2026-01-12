@@ -28,7 +28,7 @@
 ![框架维护过程1](/img/user/multi-agent-workflow-framework/Picture/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88agent%E9%98%B6%E6%AE%B5%E6%B1%87%E6%80%BB%E5%9B%BE%E7%89%874.png)  
 ![框架维护过程2](/img/user/multi-agent-workflow-framework/Picture/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88agent%E9%98%B6%E6%AE%B5%E6%B1%87%E6%80%BB%E5%9B%BE%E7%89%875.png)  
 ![框架维护过程3](/img/user/multi-agent-workflow-framework/Picture/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88agent%E9%98%B6%E6%AE%B5%E6%B1%87%E6%80%BB%E5%9B%BE%E7%89%876.png)  
-最终修订的业务流程框架文档请见：[最终维护版业务流程框架](./数据分析师agent阶段汇总-业务流程分析框架 (2).md)
+最终修订的业务流程框架文档请见：[[multi-agent-workflow-framework/Appendix/数据分析师agent阶段汇总-业务流程分析框架_(2)\|数据分析师agent阶段汇总-业务流程分析框架_(2)]]
 
 ## 六、结论
 通过多阶段汇总与持续框架维护，数据分析师Agent实现了从阶段结果整合到框架优化的闭环管理。整个过程保持了文档统一、逻辑连贯和版本可追溯性，为后续业务流程复用和自动化分析提供了清晰的结构基础。
