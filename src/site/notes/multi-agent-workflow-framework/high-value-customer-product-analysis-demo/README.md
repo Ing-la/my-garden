@@ -71,11 +71,11 @@ high-value-customer-product-analysis-demo/
 
 ### 1. 查看详细实验记录
 
-阅读 [[multi-agent-workflow-framework/high-value-customer-product-analysis-demo/高价值客户产品分析实验记录\|高价值客户产品分析实验记录.md]] 了解完整的实验流程和Agent交互过程。
+阅读 [[multi-agent-workflow-framework/high-value-customer-product-analysis-demo/b6高价值客户产品分析实验记录\|高价值客户产品分析实验记录.md]] 了解完整的实验流程和Agent交互过程。
 
 ### 2. 查看分析方案
 
-查看 [[multi-agent-workflow-framework/high-value-customer-product-analysis-demo/分析方案/高价值客户产品分析方案\|分析方案/高价值客户产品分析方案.md]] 了解分析框架的设计思路。
+查看 [[multi-agent-workflow-framework/high-value-customer-product-analysis-demo/分析方案/b1高价值客户产品分析方案\|分析方案/高价值客户产品分析方案.md]] 了解分析框架的设计思路。
 
 ### 3. 运行分析脚本
 
@@ -103,8 +103,8 @@ python 高价值客户产品分析脚本.py
 
 ## 📚 相关文档
 
-- **详细实验记录**：[[multi-agent-workflow-framework/high-value-customer-product-analysis-demo/高价值客户产品分析实验记录\|高价值客户产品分析实验记录.md]]
-- **分析方案**：[[multi-agent-workflow-framework/high-value-customer-product-analysis-demo/分析方案/高价值客户产品分析方案\|分析方案/高价值客户产品分析方案.md]]
+- **详细实验记录**：[[multi-agent-workflow-framework/high-value-customer-product-analysis-demo/b6高价值客户产品分析实验记录\|高价值客户产品分析实验记录.md]]
+- **分析方案**：[[multi-agent-workflow-framework/high-value-customer-product-analysis-demo/分析方案/b1高价值客户产品分析方案\|分析方案/高价值客户产品分析方案.md]]
 - **数据信息**：[[multi-agent-workflow-framework/high-value-customer-product-analysis-demo/data/脱敏数据增强版数据信息\|data/脱敏数据增强版数据信息.md]]
 - **业务结论**：[分析结果/真实结论/] - 反脱敏后的可直接用于业务决策的结果
 
