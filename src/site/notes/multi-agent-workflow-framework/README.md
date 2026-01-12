@@ -158,7 +158,7 @@ pip list | grep pandas  # 应显示 pandas 版本
 ### 主要文档
 
 - **[[multi-agent-workflow-framework/AI实践\|AI实践.md]]** - 完整的框架说明与实践总结
-- **[[README\|高价值客户产品分析Demo]]** - 完整的数据分析实践案例
+- **[[multi-agent-workflow-framework/high-value-customer-product-analysis-demo/b6高价值客户产品分析实验记录\|b6高价值客户产品分析实验记录]]** - 完整的数据分析实践案例
 - **[[multi-agent-workflow-framework/Appendix/框架方案\|框架方案.md]]** - 业务分析框架的制定逻辑与规范化方向
 - **[[multi-agent-workflow-framework/Appendix/222流程复现\|2.3流程复现.md]]** - 从方案生成到脚本执行、结果审阅的全过程展示
 - **[[multi-agent-workflow-framework/Appendix/ab数据分析师agent阶段汇总\|数据分析师agent阶段汇总.md]]** - 各阶段结果汇总与业务框架维护过程
