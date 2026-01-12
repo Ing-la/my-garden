@@ -4,7 +4,7 @@
 
 # 工具文档
 [[AI-Knowledge/工具文档/一些工具\|一些工具]]
-[[AI-Knowledge/工具文档/知识库（Obsidian）云端（Vercel）发布系统架构指南\|知识库（Obsidian）云端（Vercel）发布系统架构指南]]
+[[AI-Knowledge/工具文档/知识库（Obsidian）云端（GitHub + Vercel）发布系统架构指南\|知识库（Obsidian）云端（GitHub + Vercel）发布系统架构指南]]
 [[AI-Knowledge/工具文档/Obsidian + Cursor：本地 AI 第二大脑核心概览\|Obsidian + Cursor：本地 AI 第二大脑核心概览]]
 [[AI-Knowledge/工具文档/NotebookLM 使用文档\|NotebookLM 使用文档]]
 [[AI-Knowledge/工具文档/GitHub 简明指南\|GitHub 简明指南]]
