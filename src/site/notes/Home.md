@@ -16,7 +16,7 @@
 - 当前重点：[[AI-Knowledge/Agent/ReAct框架下的Agent\|ReAct框架下的Agent]]、感知与决策逻辑。
 - 目标：构建完整的 Agent 认知地图。
 
-### ⚙️ [[multi-agent-workflow-framework\|multi-agent-workflow-framework]]
+### ⚙️ [[multi-agent-workflow-framework/README\|multi-agent-workflow-framework/README]]
 *探索 Agent 之间的交互协议与工作流框架。*
 - 核心内容：工作流编排、Agent 协作模式、过程文档。
 - 目标：寻找最高效的多智能体协同生产力方案。
