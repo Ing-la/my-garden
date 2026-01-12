@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/changelog/","noteIcon":""}
+{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/CHANGELOG/","noteIcon":""}
 ---
 
 

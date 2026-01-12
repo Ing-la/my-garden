@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-knowledge/ai-knowledge/","noteIcon":""}
+{"dg-publish":true,"permalink":"/AI-Knowledge/AI-Knowledge/","noteIcon":""}
 ---
 
 

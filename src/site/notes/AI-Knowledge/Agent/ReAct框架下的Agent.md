@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-knowledge/agent/re-act-agent/","noteIcon":""}
+{"dg-publish":true,"permalink":"/AI-Knowledge/Agent/ReAct框架下的Agent/","noteIcon":""}
 ---
 
 # 知识文档：深入理解 ReAct 框架 Agent

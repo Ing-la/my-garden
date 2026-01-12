@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/appendix/agent/","noteIcon":""}
+{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/Appendix/数据分析师agent阶段汇总-第二阶段分析结论报告/","noteIcon":""}
 ---
 
 

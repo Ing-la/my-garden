@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-knowledge//notebook-lm/","noteIcon":""}
+{"dg-publish":true,"permalink":"/AI-Knowledge/工具文档/NotebookLM 使用文档/","noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-knowledge//obsidian-cursor-ai/","noteIcon":""}
+{"dg-publish":true,"permalink":"/AI-Knowledge/工具文档/Obsidian + Cursor：本地 AI 第二大脑核心概览/","noteIcon":""}
 ---
 
 

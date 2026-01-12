@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/appendix/prompt-rule/","noteIcon":""}
+{"dg-publish":true,"permalink":"/multi-agent-workflow-framework/Appendix/prompt-rule工程/","noteIcon":""}
 ---
 
 
