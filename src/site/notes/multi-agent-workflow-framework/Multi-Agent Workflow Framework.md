@@ -147,22 +147,22 @@ pip list | grep pandas  # 应显示 pandas 版本
 
 ### 使用指南
 
-1. **阅读主文档**：从 [`AI实践.md`](./AI实践.md) 开始，了解整体框架设计
-2. **查看实践案例**：参考 [`high-value-customer-product-analysis-demo/README.md`](./high-value-customer-product-analysis-demo/README.md) 了解完整的数据分析实践案例
-3. **查看流程复现**：参考 [`Appendix/2.3流程复现.md`](./Appendix/2.3流程复现.md) 了解具体执行过程
-4. **学习框架制定**：参考 [`Appendix/框架方案.md`](./Appendix/框架方案.md) 了解业务框架制定逻辑
-5. **理解阶段汇总**：参考 [`Appendix/数据分析师agent阶段汇总.md`](./Appendix/数据分析师agent阶段汇总.md) 了解多阶段协作机制
+1. **阅读主文档**：从 [[AI实践|`AI实践.md`]] 开始，了解整体框架设计
+2. **查看实践案例**：参考 [[README|`high-value-customer-product-analysis-demo/README.md`]] 了解完整的数据分析实践案例
+3. **查看流程复现**：参考 [[2.3流程复现|`Appendix/2.3流程复现.md`]] 了解具体执行过程
+4. **学习框架制定**：参考 [[框架方案|`Appendix/框架方案.md`]] 了解业务框架制定逻辑
+5. **理解阶段汇总**：参考 [[数据分析师agent阶段汇总|`Appendix/数据分析师agent阶段汇总.md`]] 了解多阶段协作机制
 
 ## 📚 文档导航
 
 ### 主要文档
 
-- **[AI实践.md](./AI实践.md)** - 完整的框架说明与实践总结
-- **[高价值客户产品分析Demo](./high-value-customer-product-analysis-demo/README.md)** - 完整的数据分析实践案例
-- **[框架方案.md](./Appendix/框架方案.md)** - 业务分析框架的制定逻辑与规范化方向
-- **[2.3流程复现.md](./Appendix/2.3流程复现.md)** - 从方案生成到脚本执行、结果审阅的全过程展示
-- **[数据分析师agent阶段汇总.md](./Appendix/数据分析师agent阶段汇总.md)** - 各阶段结果汇总与业务框架维护过程
-- **[Prompt/Rule工程实践](./Appendix/prompt-rule工程.md)** - Agent角色规范的模板与实践参考
+- **[[multi-agent-workflow-framework/AI实践\|AI实践.md]]** - 完整的框架说明与实践总结
+- **[[README\|高价值客户产品分析Demo]]** - 完整的数据分析实践案例
+- **[[multi-agent-workflow-framework/Appendix/框架方案\|框架方案.md]]** - 业务分析框架的制定逻辑与规范化方向
+- **[[multi-agent-workflow-framework/Appendix/2.3流程复现\|2.3流程复现.md]]** - 从方案生成到脚本执行、结果审阅的全过程展示
+- **[[multi-agent-workflow-framework/Appendix/数据分析师agent阶段汇总\|数据分析师agent阶段汇总.md]]** - 各阶段结果汇总与业务框架维护过程
+- **[[multi-agent-workflow-framework/Appendix/prompt-rule工程\|Prompt/Rule工程实践]]** - Agent角色规范的模板与实践参考
 
 ### 详细文档
 
