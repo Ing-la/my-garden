@@ -33,4 +33,4 @@ _解构智能体的底层原理与交互逻辑。_
 
 ---
 
-[🏠 返回主页](https://www.google.com/search?q=Home&authuser=1)
+[[Home\|Home]]
