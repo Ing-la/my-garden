@@ -99,7 +99,7 @@
 
 - **Copilot阶段（辅助驾驶）：** 以GitHub Copilot为代表，本质是基于上下文的代码补全工具。它依赖人类持续的提示（Prompt）和审查，处于“人在回路中”（Human-in-the-loop）的被动状态 18。
     
-- **Agent阶段（自主驾驶）：** 2024-2025年涌现的Devin（Cognition AI）、Amazon Q Developer以及开源的AutoGPT，具备了**认知循环**（Cognitive Loop）。它们不仅是生成代码，还能遵循“规划—>执行—>观察—>修正”的闭环流程。给定一个模糊目标（如“修复GitHub Issue #402”），Agent能自主浏览代码库、编写测试、运行编译器、读取错误日志并迭代修复，直至测试通过 25。
+- **Agent阶段（自主驾驶）：** 2024-2025年涌现的Devin（Cognition AI）、Amazon Q Developer以及开源的AutoGPT，具备了**认知循环**（Cognitive Loop）。它们不仅是生成代码，还能遵循“规划—>执行—>观察—>修正”的闭环流程。给定一个模糊目标（如“修复GitHub Issue 402”），Agent能自主浏览代码库、编写测试、运行编译器、读取错误日志并迭代修复，直至测试通过 25。
     
 
 ### 3.2 企业级应用的现实：效率与风险并存
