@@ -18,10 +18,11 @@
 _专注 AI 生产力工具的深度使用与环境配置。_
 
 - [[AI-Knowledge/工具文档（Tools）/一些工具\|一些工具]]
+- [[AI-Knowledge/工具文档（Tools）/Python 环境管理与虚拟环境全指南（python-env）\|Python 环境管理与虚拟环境全指南（python-env）]]
 - [[AI-Knowledge/工具文档（Tools）/知识库（Obsidian）云端（GitHub + Vercel）发布系统架构指南\|知识库（Obsidian）云端（GitHub + Vercel）发布系统架构指南]]
 - [[AI-Knowledge/工具文档（Tools）/Obsidian + Cursor：本地 AI 第二大脑核心概览\|Obsidian + Cursor：本地 AI 第二大脑核心概览]]
 - [[AI-Knowledge/工具文档（Tools）/NotebookLM 使用文档\|NotebookLM 使用文档]]
-- [[AI-Knowledge/工具文档（Tools）/GitHub 简明指南\|GitHub 简明指南]]
+- [[AI-Knowledge/工具文档（Tools）/GitHub 简明指南（guide）\|GitHub 简明指南（guide）]]
 # Agent
 
 #### 🤖 Agent 核心架构 (Core Concepts)
