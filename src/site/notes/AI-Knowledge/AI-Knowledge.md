@@ -23,6 +23,7 @@ _专注 AI 生产力工具的深度使用与环境配置。_
 - [[AI-Knowledge/工具文档（Tools）/Obsidian + Cursor：本地 AI 第二大脑核心概览\|Obsidian + Cursor：本地 AI 第二大脑核心概览]]
 - [[AI-Knowledge/工具文档（Tools）/NotebookLM 使用文档\|NotebookLM 使用文档]]
 - [[AI-Knowledge/工具文档（Tools）/GitHub 简明指南（guide）\|GitHub 简明指南（guide）]]
+- [[AI-Knowledge/工具文档（Tools）/桌面应用开发核心知识图谱（React+Electron+Vite）\|桌面应用开发核心知识图谱（React+Electron+Vite）]]
 # Agent
 
 #### 🤖 Agent 核心架构 (Core Concepts)
