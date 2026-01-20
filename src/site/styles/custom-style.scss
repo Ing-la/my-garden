@@ -1,20 +1,3 @@
-:root {
-    /* 调整左侧文件树的宽度，默认通常是 250px */
-    --dg-filetree-width: 350px; 
-    
-    /* 同时也建议调整最小宽度，防止在大屏幕下依然显得窄 */
-    --dg-filetree-min-width: 300px;
-
-    /* 如果你觉得内容区太挤，可以配合调整中间内容的宽度 */
-    --dg-content-max-width: 850px;
-}
-
-/* 进阶：如果希望文件名过长时自动换行而不是被截断 */
-.filetree-item-text {
-    white-space: normal !important;
-    word-break: break-all;
-}
-
 body {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
