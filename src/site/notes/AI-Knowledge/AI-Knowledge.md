@@ -17,7 +17,7 @@
 
 _专注 AI 生产力工具的深度使用与环境配置。_
 
-- [[AI-Knowledge/工具文档（Tools）/一些工具\|一些工具]]
+- [[AI-Knowledge/工具文档（Tools）/一些工具(some tools)\|一些工具(some tools)]]
 - [[AI-Knowledge/工具文档（Tools）/Python 环境管理与虚拟环境全指南（python-env）\|Python 环境管理与虚拟环境全指南（python-env）]]
 - [[AI-Knowledge/工具文档（Tools）/知识库（Obsidian）云端（GitHub + Vercel）发布系统架构指南\|知识库（Obsidian）云端（GitHub + Vercel）发布系统架构指南]]
 - [[AI-Knowledge/工具文档（Tools）/Obsidian + Cursor：本地 AI 第二大脑核心概览\|Obsidian + Cursor：本地 AI 第二大脑核心概览]]
@@ -25,6 +25,7 @@ _专注 AI 生产力工具的深度使用与环境配置。_
 - [[AI-Knowledge/工具文档（Tools）/GitHub 简明指南（guide）\|GitHub 简明指南（guide）]]
 - [[AI-Knowledge/工具文档（Tools）/desktop-app-development-guide\|desktop-app-development-guide]]
 - [[AI-Knowledge/工具文档（Tools）/OCR (光学字符识别) 技术详细科普文档\|OCR (光学字符识别) 技术详细科普文档]]
+- [[AI-Knowledge/工具文档（Tools）/杂乱的一些信息（scattered information）\|杂乱的一些信息（scattered information）]]
 # Agent
 
 #### 🤖 Agent 核心架构 (Core Concepts)
