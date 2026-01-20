@@ -24,6 +24,7 @@ _专注 AI 生产力工具的深度使用与环境配置。_
 - [[AI-Knowledge/工具文档（Tools）/NotebookLM 使用文档\|NotebookLM 使用文档]]
 - [[AI-Knowledge/工具文档（Tools）/GitHub 简明指南（guide）\|GitHub 简明指南（guide）]]
 - [[AI-Knowledge/工具文档（Tools）/desktop-app-development-guide\|desktop-app-development-guide]]
+- [[AI-Knowledge/工具文档（Tools）/OCR (光学字符识别) 技术详细科普文档\|OCR (光学字符识别) 技术详细科普文档]]
 # Agent
 
 #### 🤖 Agent 核心架构 (Core Concepts)
