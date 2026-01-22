@@ -28,6 +28,7 @@ _专注 AI 生产力工具的深度使用与环境配置。_
 - [[AI-Knowledge/工具文档（Tools）/杂乱的一些信息（scattered information）\|杂乱的一些信息（scattered information）]]
 - [[AI-Knowledge/工具文档（Tools）/技术全景解析：从 HTTP API 到多模态 SDK\|技术全景解析：从 HTTP API 到多模态 SDK]]
 - [[AI-Knowledge/工具文档（Tools）/Google AI Studio 游戏开发与本地部署全指南（guide）\|Google AI Studio 游戏开发与本地部署全指南（guide）]]
+- [[AI-Knowledge/工具文档（Tools）/基于云端访问控制（RAM）的多模态 AI 安全开发全指南\|基于云端访问控制（RAM）的多模态 AI 安全开发全指南]]
 # Agent
 
 #### 🤖 Agent 核心架构 (Core Concepts)
