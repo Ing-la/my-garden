@@ -26,6 +26,8 @@ _专注 AI 生产力工具的深度使用与环境配置。_
 - [[AI-Knowledge/工具文档（Tools）/desktop-app-development-guide\|desktop-app-development-guide]]
 - [[AI-Knowledge/工具文档（Tools）/OCR (光学字符识别) 技术详细科普文档\|OCR (光学字符识别) 技术详细科普文档]]
 - [[AI-Knowledge/工具文档（Tools）/杂乱的一些信息（scattered information）\|杂乱的一些信息（scattered information）]]
+- [[AI-Knowledge/工具文档（Tools）/技术全景解析：从 HTTP API 到多模态 SDK\|技术全景解析：从 HTTP API 到多模态 SDK]]
+- [[AI-Knowledge/工具文档（Tools）/Google AI Studio 游戏开发与本地部署全指南（guide）\|Google AI Studio 游戏开发与本地部署全指南（guide）]]
 # Agent
 
 #### 🤖 Agent 核心架构 (Core Concepts)
