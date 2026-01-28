@@ -10,17 +10,33 @@
 
 ## 🧭 核心研究模块
 
-### 🧠 [[AI-Knowledge/AI-Knowledge\|AI-Knowledge]]
-*沉淀 AI Agent 核心概念与前沿技术。*
-- **定位**：底层知识架构与 Agent 认知地图。
+### 🧠 [[Disorganized knowledge/Disorganized knowledge\|Disorganized knowledge]]
+
+_杂乱信息的零散沉淀与初步思考。_
+
+- **定位**：灵感杂货铺。降低管理成本，随手记录未归类的硬核技术、碎片化调研与杂散信息，作为后期提炼的原始素材。
+    
 
 ### 🔍 [[Deep Research/Deep Research\|Deep Research]]
-*基于深度好奇心的系统化调研与专题报告。*
-- **定位**：将复杂命题穿透，转化为成体系的知识资产。
+
+_基于深度好奇心的穿透式专题调研。_
+
+- **定位**：利用 AI 工具针对特定兴趣点进行深度挖掘，侧重于解决特定的“为什么”或“怎么做”。
+    
 
 ### ⚙️ [[multi-agent-workflow-framework/Multi-Agent_Workflow_Framework\|Multi-Agent_Workflow_Framework]]
-*探索多智能体协作协议与生产力工作流。*
-- **定位**：寻找 AI 时代最高效的协同方案。
+
+_探索多智能体协作协议与生产力工作流。_
+
+- **定位**：成体系的方法论。寻找 AI 时代最高效的协同方案，构建标准化的自动化作业流。
+    
+
+### 🏗️ [[Full-Stack_AI_Engineering/Full-Stack_AI_Engineering\|Full-Stack_AI_Engineering]]
+
+_2026 AI 全栈开发核心知识体系。_
+
+- **定位**：从研发到部署的硬核实战。涵盖 Web 架构、现代前端、后端计算环境、桌面端 Electron 架构及 AI 云原生部署托管。
+    
 
 ---
 
