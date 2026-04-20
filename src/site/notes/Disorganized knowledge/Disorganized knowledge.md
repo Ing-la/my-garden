@@ -17,18 +17,18 @@
 
 _专注 AI 生产力工具的深度使用与环境配置。_
 
-- [[Disorganized knowledge/Anything/一些工具(some tools)\|一些工具(some tools)]]
-- [[Disorganized knowledge/Anything/Python 环境管理与虚拟环境全指南（python-env）\|Python 环境管理与虚拟环境全指南（python-env）]]
-- [[Disorganized knowledge/Anything/知识库（Obsidian）云端（GitHub + Vercel）发布系统架构指南\|知识库（Obsidian）云端（GitHub + Vercel）发布系统架构指南]]
-- [[Disorganized knowledge/Anything/Obsidian + Cursor：本地 AI 第二大脑核心概览\|Obsidian + Cursor：本地 AI 第二大脑核心概览]]
-- [[Disorganized knowledge/Anything/NotebookLM 使用文档\|NotebookLM 使用文档]]
-- [[Disorganized knowledge/Anything/GitHub 简明指南（guide）\|GitHub 简明指南（guide）]]
-- [[Disorganized knowledge/Anything/desktop-app-development-guide\|desktop-app-development-guide]]
-- [[Disorganized knowledge/Anything/OCR (光学字符识别) 技术详细科普文档\|OCR (光学字符识别) 技术详细科普文档]]
-- [[Disorganized knowledge/Anything/杂乱的一些信息（scattered information）\|杂乱的一些信息（scattered information）]]
-- [[Disorganized knowledge/Anything/技术全景解析：从 HTTP API 到多模态 SDK\|技术全景解析：从 HTTP API 到多模态 SDK]]
-- [[Disorganized knowledge/Anything/Google AI Studio 游戏开发与本地部署全指南（guide）\|Google AI Studio 游戏开发与本地部署全指南（guide）]]
-- [[Disorganized knowledge/Anything/基于云端访问控制（RAM）的多模态 AI 安全开发全指南\|基于云端访问控制（RAM）的多模态 AI 安全开发全指南]]
+- [[Disorganized knowledge/Anything/---/一些工具(some tools)\|一些工具(some tools)]]
+- [[Disorganized knowledge/Anything/---/Python 环境管理与虚拟环境全指南（python-env）\|Python 环境管理与虚拟环境全指南（python-env）]]
+- [[Disorganized knowledge/Anything/---/知识库（Obsidian）云端（GitHub + Vercel）发布系统架构指南\|知识库（Obsidian）云端（GitHub + Vercel）发布系统架构指南]]
+- [[Disorganized knowledge/Anything/---/Obsidian + Cursor：本地 AI 第二大脑核心概览\|Obsidian + Cursor：本地 AI 第二大脑核心概览]]
+- [[Disorganized knowledge/Anything/---/NotebookLM 使用文档\|NotebookLM 使用文档]]
+- [[Disorganized knowledge/Anything/---/GitHub 简明指南（guide）\|GitHub 简明指南（guide）]]
+- [[Disorganized knowledge/Anything/---/desktop-app-development-guide\|desktop-app-development-guide]]
+- [[Disorganized knowledge/Anything/---/OCR (光学字符识别) 技术详细科普文档\|OCR (光学字符识别) 技术详细科普文档]]
+- [[Disorganized knowledge/Anything/---/杂乱的一些信息（scattered information）\|杂乱的一些信息（scattered information）]]
+- [[Disorganized knowledge/Anything/---/技术全景解析：从 HTTP API 到多模态 SDK\|技术全景解析：从 HTTP API 到多模态 SDK]]
+- [[Disorganized knowledge/Anything/---/Google AI Studio 游戏开发与本地部署全指南（guide）\|Google AI Studio 游戏开发与本地部署全指南（guide）]]
+- [[Disorganized knowledge/Anything/---/基于云端访问控制（RAM）的多模态 AI 安全开发全指南\|基于云端访问控制（RAM）的多模态 AI 安全开发全指南]]
 - [[Disorganized knowledge/books/Human-Skills-in-the-Age-of-AI_For-Web\|Human-Skills-in-the-Age-of-AI_For-Web]]
 # Agent
 

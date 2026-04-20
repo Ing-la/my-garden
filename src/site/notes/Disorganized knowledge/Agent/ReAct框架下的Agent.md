@@ -95,4 +95,4 @@ def run_agent(user_query):
 
 ---
 
-**结语：** ReAct 的精髓在于**“透明的思考”**与**“受控的行动”**。它是目前构建生产级 Agent（如 LangChain、AutoGPT）最基础也最有效的底层思维模型。
+**结语：** ReAct 的精髓在于 **“透明的思考”** 与 **“受控的行动”** 。它是目前构建生产级 Agent（如 LangChain、AutoGPT）最基础也最有效的底层思维模型。
