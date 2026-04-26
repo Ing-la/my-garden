@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/full-stack-ai-engineering/full-stack-ai-engineering/","noteIcon":""}
 ---
 
+![Full-Stack AI Engineering cover.png](/img/user/Full-Stack_AI_Engineering/Full-Stack%20AI%20Engineering%20cover.png)
 # 📂 2026 AI 全栈开发知识库索引
 
 > 本知识库采用"从宏观到微观，从研发到部署"的逻辑结构，系统梳理 AI 全栈开发的核心知识体系。

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pid/pid/","noteIcon":""}
 ---
 
+![PID 控制学习笔记 cover.png](/img/user/PID%E6%8E%A7%E5%88%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/PID%20%E6%8E%A7%E5%88%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20cover.png)
 # 🎛️ PID 控制学习笔记
 
 > 本知识库基于 **B站up主【华南小虎队】** 视频课程整理总结，结合个人实践经验补充完善，形成从理论基础到工程实战的完整 PID 控制知识体系。

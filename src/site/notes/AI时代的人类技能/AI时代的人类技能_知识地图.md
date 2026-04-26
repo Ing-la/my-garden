@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ai/ai/","noteIcon":""}
 ---
 
-
+![AI时代的人类技能_知识地图 cover.png](/img/user/AI%E6%97%B6%E4%BB%A3%E7%9A%84%E4%BA%BA%E7%B1%BB%E6%8A%80%E8%83%BD/AI%E6%97%B6%E4%BB%A3%E7%9A%84%E4%BA%BA%E7%B1%BB%E6%8A%80%E8%83%BD_%E7%9F%A5%E8%AF%86%E5%9C%B0%E5%9B%BE%20cover.png)
 # 🧭 AI 时代的人类技能 · 知识地图
 
 > 本文档是 **《AI 时代的人类技能：为什么核心能力比以往任何时候都重要》** 的知识索引地图（Map of Content），系统梳理了该报告的核心框架与知识脉络，方便快速导航与深入学习。
