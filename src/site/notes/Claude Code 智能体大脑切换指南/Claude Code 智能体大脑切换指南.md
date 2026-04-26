@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claude-code/claude-code/","noteIcon":""}
 ---
 
-![Claude Code 智能体大脑切换指南 cover.png](/img/user/Claude%20Code%20%E6%99%BA%E8%83%BD%E4%BD%93%E5%A4%A7%E8%84%91%E5%88%87%E6%8D%A2%E6%8C%87%E5%8D%97/Claude%20Code%20%E6%99%BA%E8%83%BD%E4%BD%93%E5%A4%A7%E8%84%91%E5%88%87%E6%8D%A2%E6%8C%87%E5%8D%97%20cover.png)
+![Claude Code cover.png](/img/user/Claude%20Code%20%E6%99%BA%E8%83%BD%E4%BD%93%E5%A4%A7%E8%84%91%E5%88%87%E6%8D%A2%E6%8C%87%E5%8D%97/Claude%20Code%20cover.png)
 # 🚀 Claude Code 智能体大脑切换指南
 
 > 本指南系统梳理 Claude Code 智能体从环境搭建到大脑切换的完整技术体系，涵盖基础操作、Token 优化、国产大模型适配、多脑调度配置及故障排除，形成从智能体部署到大脑按需切换的工程实践路径。
