@@ -111,4 +111,4 @@ Claude Code 首次运行会检查 `hasCompletedOnboarding` 标志。手动修改
 ---
 
 ## 四、下一步
-完成基础配置后，可学习 [基础使用手册](./02-Claude%20Code%20基础使用手册.md) 掌握常用命令与交互技巧。
+完成基础配置后，可学习 [[Claude Code 智能体大脑切换指南/02-Claude Code 基础使用手册\|02-Claude Code 基础使用手册]] 掌握常用命令与交互技巧。或者返回首页[[Claude Code 智能体大脑切换指南/Claude Code 智能体大脑切换指南\|Claude Code 智能体大脑切换指南]]

@@ -6,7 +6,7 @@
 
 > **核心定位：** Electron 是"合体容器"，将 Chromium 浏览器与 Node.js 后端融合，实现跨平台桌面应用开发。本文档专门解析 Electron 的架构原理、IPC 通信、Preload 脚本安全与二进制 Binding 桥接。
 
-**关联文档：** [[Full-Stack_AI_Engineering/Full-Stack_AI_Engineering\|Full-Stack_AI_Engineering]] | [[Full-Stack_AI_Engineering/02-现代前端工程：从V8到React\|02-现代前端工程：从V8到React]] | [[Full-Stack_AI_Engineering/03-服务端逻辑与Agent计算环境\|03-服务端逻辑与Agent计算环境]]
+**关联文档：** [[Full-Stack_AI_Engineering/Full-Stack AI Engineering\|Full-Stack AI Engineering]] | [[Full-Stack_AI_Engineering/02-现代前端工程：从V8到React\|02-现代前端工程：从V8到React]] | [[Full-Stack_AI_Engineering/03-服务端逻辑与Agent计算环境\|03-服务端逻辑与Agent计算环境]]
 
 ---
 
@@ -610,4 +610,4 @@ const syncToCloud = async (data) => {
 - 学习部署实践：[[Full-Stack_AI_Engineering/05-AI云原生部署与托管实战(2026)\|05-AI云原生部署与托管实战(2026)]]
 
 ---
-[[Full-Stack_AI_Engineering/Full-Stack_AI_Engineering\|Full-Stack_AI_Engineering]]
+[[Full-Stack_AI_Engineering/Full-Stack AI Engineering\|Full-Stack AI Engineering]]

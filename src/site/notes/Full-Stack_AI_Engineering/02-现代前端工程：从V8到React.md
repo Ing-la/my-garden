@@ -6,7 +6,7 @@
 
 > **核心定位：** 前端是"艺术家"，通过状态驱动界面。本文档深入解析 V8 引擎原理、DOM 树渲染、React 声明式编程、状态管理与 Vite 编译链路。
 
-**关联文档：** [[Full-Stack_AI_Engineering/Full-Stack_AI_Engineering\|Full-Stack_AI_Engineering]] | [[Full-Stack_AI_Engineering/01-Web基础架构与通讯协议\|01-Web基础架构与通讯协议]] | [[Full-Stack_AI_Engineering/04-桌面端专题：Electron深度架构\|04-桌面端专题：Electron深度架构]]
+**关联文档：** [[Full-Stack_AI_Engineering/Full-Stack AI Engineering\|Full-Stack AI Engineering]] | [[Full-Stack_AI_Engineering/01-Web基础架构与通讯协议\|01-Web基础架构与通讯协议]] | [[Full-Stack_AI_Engineering/04-桌面端专题：Electron深度架构\|04-桌面端专题：Electron深度架构]]
 
 ---
 
@@ -692,4 +692,4 @@ export default defineConfig({
 - 学习部署实践：[[Full-Stack_AI_Engineering/05-AI云原生部署与托管实战(2026)\|05-AI云原生部署与托管实战(2026)]]
 
 ---
-[[Full-Stack_AI_Engineering/Full-Stack_AI_Engineering\|Full-Stack_AI_Engineering]]
+[[Full-Stack_AI_Engineering/Full-Stack AI Engineering\|Full-Stack AI Engineering]]

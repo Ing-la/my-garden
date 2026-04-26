@@ -117,4 +117,4 @@
 ---
 
 ## 六、下一步
-掌握 Token 管理后，可探索 [国产大模型适配指南](./04-Claude%20Code%20国产大模型适配指南.md) 以降低使用成本。
+掌握 Token 管理后，可探索 [[Claude Code 智能体大脑切换指南/04-Claude Code 国产大模型适配指南\|04-Claude Code 国产大模型适配指南]] 以降低使用成本。或者返回首页[[Claude Code 智能体大脑切换指南/Claude Code 智能体大脑切换指南\|Claude Code 智能体大脑切换指南]]

@@ -102,4 +102,4 @@ Claude Code 终端界面提供了一套精简的折叠与交互机制：
 ---
 
 ## 七、下一步
-掌握基础操作后，可深入学习 [Token 机制与上下文管理](./03-Claude%20Code%20Token机制与上下文管理.md) 以优化使用效率。
+掌握基础操作后，可深入学习 [[Claude Code 智能体大脑切换指南/03-Claude Code Token机制与上下文管理\|03-Claude Code Token机制与上下文管理]] 以优化使用效率。或者返回首页[[Claude Code 智能体大脑切换指南/Claude Code 智能体大脑切换指南\|Claude Code 智能体大脑切换指南]]

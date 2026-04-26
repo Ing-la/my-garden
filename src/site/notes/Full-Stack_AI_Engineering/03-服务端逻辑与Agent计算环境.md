@@ -6,7 +6,7 @@
 
 > **核心定位：** 后端是"大管家"，负责逻辑计算、数据持久化与安全管理。本文档深入解析 Node.js/Libuv 异步机制、Python 后端选型、数据持久化、安全管理与 Docker 沙箱隔离。
 
-**关联文档：** [[Full-Stack_AI_Engineering/Full-Stack_AI_Engineering\|Full-Stack_AI_Engineering]] | [[Full-Stack_AI_Engineering/01-Web基础架构与通讯协议\|01-Web基础架构与通讯协议]] | [[Full-Stack_AI_Engineering/05-AI云原生部署与托管实战(2026)\|05-AI云原生部署与托管实战(2026)]]
+**关联文档：** [[Full-Stack_AI_Engineering/Full-Stack AI Engineering\|Full-Stack AI Engineering]] | [[Full-Stack_AI_Engineering/01-Web基础架构与通讯协议\|01-Web基础架构与通讯协议]] | [[Full-Stack_AI_Engineering/05-AI云原生部署与托管实战(2026)\|05-AI云原生部署与托管实战(2026)]]
 
 ---
 
@@ -787,5 +787,5 @@ if __name__ == "__main__":
 - 回顾架构基础：[[Full-Stack_AI_Engineering/01-Web基础架构与通讯协议\|01-Web基础架构与通讯协议]]
 
 ---
-[[Full-Stack_AI_Engineering/Full-Stack_AI_Engineering\|Full-Stack_AI_Engineering]]
+[[Full-Stack_AI_Engineering/Full-Stack AI Engineering\|Full-Stack AI Engineering]]
 

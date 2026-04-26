@@ -144,3 +144,6 @@
 *原作者：Karen L. Murphy 博士 & Alex Logan (LearnerStudio / High Resolves Group)*
 *整理日期：2026年4月23日*
 *文档数量：5 份核心知识文档 + 1 份知识地图*
+
+---
+[[Home\|Home]]

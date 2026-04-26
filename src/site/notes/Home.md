@@ -24,7 +24,7 @@ _基于深度好奇心的穿透式专题调研。_
 - **定位**：利用 AI 工具针对特定兴趣点进行深度挖掘，侧重于解决特定的“为什么”或“怎么做”。
     
 
-### ⚙️ [[multi-agent-workflow-framework/Multi-Agent_Workflow_Framework\|Multi-Agent_Workflow_Framework]]
+### ⚙️ [[multi-agent-workflow-framework/Multi-Agent 工作流框架\|Multi-Agent 工作流框架]]
 
 _探索多智能体协作协议与生产力工作流。_
 
@@ -45,11 +45,19 @@ _从智能体搭建到大脑按需切换的工程实践指南。_
 - **定位**：Claude Code 智能体完整技术体系。涵盖环境搭建、基础操作、Token 优化、国产大模型适配（cc-switch）、多脑调度配置及故障排除，实现高性能与低成本的平衡。
 
 
-### 🏗️ [[Full-Stack_AI_Engineering/Full-Stack_AI_Engineering\|Full-Stack_AI_Engineering]]
+### 🏗️ [[Full-Stack_AI_Engineering/Full-Stack AI Engineering\|Full-Stack AI Engineering]]
 
 _2026 AI 全栈开发核心知识体系。_
 
 - **定位**：从研发到部署的硬核实战。涵盖 Web 架构、现代前端、后端计算环境、桌面端 Electron 架构及 AI 云原生部署托管。
+
+
+### 📐 [[Software Engineering/Software Engineering MOC\|软件工程]]
+
+_AI 时代的系统架构思维：从 Coder 到 Architect 的认知跃迁。_
+
+- **定位**：基于 Roger S. Pressman 博士经典著作《软件工程：实践者的研究方法（第 9 版）》的系统性知识体系。涵盖软件过程、建模设计、质量保障、安全工程、项目管理五大维度，16 篇笔记均融入 AI 辅助编程与 LLM Agent 时代的工程实践映射。
+
     
 ### 🧑‍🤝‍🧑 [[AI时代的人类技能/AI时代的人类技能_知识地图\|AI 时代的人类技能]]
 

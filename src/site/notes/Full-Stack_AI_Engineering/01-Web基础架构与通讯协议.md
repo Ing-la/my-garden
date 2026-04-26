@@ -6,7 +6,7 @@
 
 > **核心定位：** API 是连接一切的血脉。本文档系统阐述 Web 三层物理结构、请求-响应生命周期、HTTP 协议、CORS 跨域机制与 API-First 设计理念。
 
-**关联文档：** [[Full-Stack_AI_Engineering/Full-Stack_AI_Engineering\|Full-Stack_AI_Engineering]] | [[Full-Stack_AI_Engineering/02-现代前端工程：从V8到React\|02-现代前端工程：从V8到React]] | [[Full-Stack_AI_Engineering/03-服务端逻辑与Agent计算环境\|03-服务端逻辑与Agent计算环境]]
+**关联文档：** [[Full-Stack_AI_Engineering/Full-Stack AI Engineering\|Full-Stack AI Engineering]] | [[Full-Stack_AI_Engineering/02-现代前端工程：从V8到React\|02-现代前端工程：从V8到React]] | [[Full-Stack_AI_Engineering/03-服务端逻辑与Agent计算环境\|03-服务端逻辑与Agent计算环境]]
 
 ---
 
@@ -386,4 +386,4 @@ server {
 - 学习部署实践：[[Full-Stack_AI_Engineering/05-AI云原生部署与托管实战(2026)\|05-AI云原生部署与托管实战(2026)]]
 
 ---
-[[Full-Stack_AI_Engineering/Full-Stack_AI_Engineering\|Full-Stack_AI_Engineering]]
+[[Full-Stack_AI_Engineering/Full-Stack AI Engineering\|Full-Stack AI Engineering]]
