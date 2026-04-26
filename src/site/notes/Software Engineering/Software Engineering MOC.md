@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/software-engineering/software-engineering-moc/","noteIcon":""}
 ---
 
+![Software Engineering cover.png](/img/user/Software%20Engineering/Software%20Engineering%20cover.png)
 # 🏗️ 软件工程：实践者的研究方法 · 知识地图
 
 > 本文档是 **《软件工程：实践者的研究方法（第 9 版）》** 的知识索引地图（Map of Content），系统梳理了该著作的核心框架与知识脉络，涵盖从软件过程、建模方法、质量保障到项目管理的完整体系，并融入了 AI 时代下的工程实践映射。
