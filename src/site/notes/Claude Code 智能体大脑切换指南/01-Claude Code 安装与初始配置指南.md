@@ -4,7 +4,93 @@
 
 # Claude Code 安装与初始配置指南
 
-## 一、安装 Claude Code
+## 一、前置环境准备
+
+### 1. PowerShell 安装
+
+Claude Code 的安装脚本和日常操作依赖 PowerShell。如果你的系统尚未安装，请按以下步骤操作：
+
+#### 检测是否已安装
+打开任意命令行（cmd），输入：
+```powershell
+powershell -Command "$PSVersionTable.PSVersion"
+```
+- 如果显示版本号（如 `Major Minor Build Revision`），说明已安装，跳过此节
+- 如果提示"不是内部或外部命令"，则继续以下安装步骤
+
+#### 下载与安装
+1. **访问官方下载页**：[PowerShell GitHub Releases](https://github.com/PowerShell/PowerShell/releases/latest)
+2. **选择对应安装包**：
+   - Windows 10/11 64位：下载 `PowerShell-<版本号>-win-x64.msi`
+   - Windows 10/11 32位：下载 `PowerShell-<版本号>-win-x86.msi`
+   - Windows 7/Server：下载 `PowerShell-<版本号>-win-<架构>.msi`（注意 Windows 7 需安装 WMF 5.1 前置补丁）
+3. **运行安装程序**：双击 `.msi` 文件，一路点击"Next"，建议勾选"Add to PATH"
+4. **重启终端**：安装完成后，重新打开命令行
+
+#### 验证安装
+```powershell
+powershell -Command "$PSVersionTable.PSVersion"
+```
+正常应显示类似以下输出（版本号以实际为准）：
+```
+Major  Minor  Build  Revision
+-----  -----  -----  --------
+7      4       xxxx  xxxx
+```
+
+#### 常见问题
+- **Windows 7 安装失败**：需先安装 [WMF 5.1](https://learn.microsoft.com/en-us/powershell/scripting/windows-powershell/wmf/setup/install-configure) 和 KB 补丁
+- **安装后仍找不到命令**：尝试注销后重新登录，或者手动将 `C:\Program Files\PowerShell\7\` 添加到系统 PATH
+
+---
+
+### 2. Git 安装
+
+Claude Code 在文件编辑、代码生成和项目管理中重度依赖 Git。如果你的系统尚未安装，请按以下步骤操作：
+
+#### 检测是否已安装
+打开 PowerShell，输入：
+```powershell
+git --version
+```
+- 如果显示版本号（如 `git version 2.45.0.windows.1`），说明已安装，跳过此节
+- 如果提示"无法将'git'识别为 cmdlet"，则继续以下安装步骤
+
+#### 下载与安装
+1. **访问官方下载页**：[https://git-scm.com/download/win](https://git-scm.com/download/win)
+   - 系统会自动推荐对应架构的版本（64位或32位）
+2. **运行安装程序**：双击下载的 `.exe` 文件，关键配置项建议如下：
+   - **Select Components**：默认勾选即可，建议勾选"Add a Git Bash Profile to Windows Terminal"（如有）
+   - **Choosing the default editor**：选择你习惯的编辑器（如 VS Code、Notepad++ 等）
+   - **Adjusting your PATH environment**：选择 **"Git from the command line and also from 3rd-party software"**（确保在 PowerShell 中可直接使用 git 命令）
+   - **Choosing HTTPS transport backend**：选 "Use the native Windows Secure Channel library"
+   - **Configuring the line ending conversions**：选 **"Checkout as-is, commit as-is"**（避免跨平台换行符问题）
+   - **其他选项**：保持默认即可
+3. **完成安装**：点击"Install"，等待完成
+
+#### 验证安装
+```powershell
+git --version
+```
+正常应显示：
+```
+git version 2.45.0.windows.1
+```
+
+#### 初次使用配置（必做）
+安装后需配置用户名和邮箱（用于 Git 提交记录）：
+```powershell
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+```
+
+#### 常见问题
+- **安装后 PowerShell 找不到 git**：检查 C:\Program Files\Git\cmd 是否在系统 PATH 中，或重启终端
+- **需要代理**：在 PowerShell 中设置 `git config --global http.proxy http://127.0.0.1:7897`
+
+---
+
+## 二、安装 Claude Code
 
 ### 1. 卸载旧版本（如适用）
 官方已停止对 npm 版本的更新支持，全面转向原生二进制版本。若之前通过 npm 安装，请先卸载：
@@ -40,7 +126,7 @@ claude doctor
 
 ---
 
-## 二、认证绕过与 API Key 配置
+## 三、认证绕过与 API Key 配置
 
 ### 1. 底层逻辑：为什么能绕过登录？
 Claude Code 代码中写死：**只要检测到 `ANTHROPIC_API_KEY` 环境变量，就直接走 API 计费通道，不再检查浏览器登录状态**。设置 Key 即实现“绕过”。
@@ -95,7 +181,7 @@ Claude Code 首次运行会检查 `hasCompletedOnboarding` 标志。手动修改
 
 ---
 
-## 三、日常维护与状态验证
+## 四、日常维护与状态验证
 
 ### 1. 关键操作备忘
 - **更换 Key 或 URL**：修改 `$PROFILE` 文件中对应的 `$env:ANTHROPIC_API_KEY` 和 `$env:ANTHROPIC_BASE_URL` 值。
@@ -110,5 +196,5 @@ Claude Code 首次运行会检查 `hasCompletedOnboarding` 标志。手动修改
 
 ---
 
-## 四、下一步
-完成基础配置后，可学习 [[Claude Code 智能体大脑切换指南/02-Claude Code 基础使用手册\|02-Claude Code 基础使用手册]] 掌握常用命令与交互技巧。或者返回首页[[Claude Code 智能体大脑切换指南/Claude Code 智能体大脑切换指南\|Claude Code 智能体大脑切换指南]]
+## 五、下一步
+完成基础配置后，可学习 [基础使用手册](./02-Claude%20Code%20基础使用手册.md) 掌握常用命令与交互技巧。

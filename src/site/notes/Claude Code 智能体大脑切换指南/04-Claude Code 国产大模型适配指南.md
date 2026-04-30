@@ -36,9 +36,9 @@
 ### 3. 安装与部署流程（详细步骤）
 
 #### 步骤 1：获取 cc-switch 客户端
-- **GitHub 仓库**：访问 [cc-switch 官方仓库](https://github.com/cc-switch/cc-switch) 获取最新版本
+- **GitHub 仓库**：访问 [cc-switch 官方仓库](https://github.com/farion1231/cc-switch) 获取最新版本
 - **下载链接**：
-  - Windows：下载 `.msi` 或 `.exe` 安装包 [最新发布页面](https://github.com/cc-switch/cc-switch/releases/latest)
+  - Windows：下载 `.msi` 或 `.exe` 安装包 [最新发布页面](https://github.com/farion1231/cc-switch/releases/latest)
   - macOS：下载 `.dmg` 安装包
   - Linux：下载 `.AppImage` 或使用包管理器安装
 - **备用下载**：如果 GitHub 访问困难，可通过 [GitHub Proxy](https://ghproxy.com/) 加速下载
@@ -149,4 +149,4 @@
 ---
 
 ## 六、下一步
-掌握国产大模型适配后，可深入学习 [[Claude Code 智能体大脑切换指南/05-Claude Code 进阶配置与多脑并存\|05-Claude Code 进阶配置与多脑并存]] 实现模型资源的最优调度。或者返回首页[[Claude Code 智能体大脑切换指南/Claude Code 智能体大脑切换指南\|Claude Code 智能体大脑切换指南]]
+掌握国产大模型适配后，可深入学习 [进阶配置与多脑并存](./05-Claude%20Code%20进阶配置与多脑并存.md) 实现模型资源的最优调度。
