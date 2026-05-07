@@ -4,11 +4,20 @@
 
 # 🤖 Ing-la 的数字花园
 
-欢迎来到我的个人知识库。这里是我构建**数字孪生大脑**的实验场，记录了从**感性灵感、理性调研**到**硬核技术架构**与**内容创作实践**的全维度成长过程。
+欢迎来到我的数字花园 🌱
+
+这里是我持续学习、思考和输出的个人知识库。每一篇笔记都是一次探索的印记，无论技术还是人文，只要值得深挖，就会在这里落地生根。
 
 ---
 
 ## 🧭 核心研究模块
+
+### 🧑‍🤝‍🧑 [[AI时代的人类技能/AI时代的人类技能_知识地图\|AI 时代的人类技能]]
+
+_AI 时代人类核心能力的系统性研究框架。_
+
+- **定位**：基于 LearnerStudio × High Resolves 研究报告的深度整理。涵盖批判性思维、沟通、情感智能等 12 项核心人类技能及两大元特征，剖析 AI 时代技能重塑的五大驱动力。
+
 
 ### 🧠 [[Claude Code 智能体大脑切换指南/Claude Code 智能体大脑切换指南\|Claude Code 智能体大脑切换指南]]
 
@@ -38,11 +47,11 @@ _AI 时代的系统架构思维：从 Coder 到 Architect 的认知跃迁。_
 - **定位**：基于 Roger S. Pressman 博士经典著作《软件工程：实践者的研究方法（第 9 版）》的系统性知识体系。涵盖软件过程、建模设计、质量保障、安全工程、项目管理五大维度，16 篇笔记均融入 AI 辅助编程与 LLM Agent 时代的工程实践映射。
 
 
-### 🧑‍🤝‍🧑 [[AI时代的人类技能/AI时代的人类技能_知识地图\|AI 时代的人类技能]]
+### 💻 [[Operating Systems- Three Easy Pieces/📍 MOC - 《操作系统导论》深度知识架构\|操作系统导论]]
 
-_AI 时代人类核心能力的系统性研究框架。_
+_从虚拟化到持久性的系统性 OS 认知地图。_
 
-- **定位**：基于 LearnerStudio × High Resolves 研究报告的深度整理。涵盖批判性思维、沟通、情感智能等 12 项核心人类技能及两大元特征，剖析 AI 时代技能重塑的五大驱动力。
+- **定位**：基于《Operating Systems: Three Easy Pieces》的深度知识体系。以六维度结构重构虚拟化、并发、持久性、分布式四大支柱，共 56 篇笔记，配以 TLB、多级页表、竞态条件等自绘架构图解及跨章节补充理解。
 
 
 ### 🎛️ [[PID控制学习笔记/PID 控制学习笔记\|PID 控制学习笔记]]
@@ -78,7 +87,7 @@ _基于深度好奇心的穿透式专题调研。_
 
 ## 🔗 链接
 - **GitHub**: [@Ing-la](https://github.com/Ing-la)
-- **本站地址**: [my-garden-ashy.vercel.app](https://my-garden-ashy.vercel.app)
+- **本站地址**: [my-garden-ashy.vercel.app](https://my-garden-ashy.vercel.app) · [blog.xiao-pang.cn](https://blog.xiao-pang.cn/)
 
 ---
 *“The best way to predict the future is to build it.”*
