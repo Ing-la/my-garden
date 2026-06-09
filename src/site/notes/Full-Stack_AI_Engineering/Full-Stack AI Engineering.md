@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/full-stack-ai-engineering/full-stack-ai-engineering/","noteIcon":""}
 ---
 
-![Full-Stack AI Engineering cover.png](/img/user/Full-Stack_AI_Engineering/Full-Stack%20AI%20Engineering%20cover.png)
 # 📂 2026 AI 全栈开发知识库索引
 
 > 本知识库采用"从宏观到微观，从研发到部署"的逻辑结构，系统梳理 AI 全栈开发的核心知识体系。
@@ -12,14 +11,6 @@
 ## 📑 知识库结构概览
 
 本知识库由 **1 个主索引** 和 **5 个专项文档** 组成，采用 Obsidian 双链结构，便于知识关联与检索。
-
-### 核心文档导航
-
-- [[Full-Stack_AI_Engineering/01-Web基础架构与通讯协议\|01-Web基础架构与通讯协议]] - Web 三层物理结构、请求-响应生命周期、HTTP 协议、CORS 跨域机制、API-First 理念
-- [[Full-Stack_AI_Engineering/02-现代前端工程：从V8到React\|02-现代前端工程：从V8到React]] - V8 引擎原理、DOM 树渲染、React 声明式编程、状态管理、Vite 编译链路
-- [[Full-Stack_AI_Engineering/03-服务端逻辑与Agent计算环境\|03-服务端逻辑与Agent计算环境]] - Node.js/Libuv 异步机制、Python 后端选型、数据持久化、安全管理、Docker 沙箱
-- [[Full-Stack_AI_Engineering/04-桌面端专题：Electron深度架构\|04-桌面端专题：Electron深度架构]] - 主进程与渲染进程、IPC 通信、Preload 脚本安全、二进制 Binding 桥接
-- [[Full-Stack_AI_Engineering/05-AI云原生部署与托管实战(2026)\|05-AI云原生部署与托管实战(2026)]] - Vercel vs Streamlit、300 秒红线、CDN 加速、自定义域名、异步状态流、内网互通
 
 ---
 
@@ -99,25 +90,6 @@
 - 内网互通与流量成本优化
 
 **关联文档：** [[Full-Stack_AI_Engineering/03-服务端逻辑与Agent计算环境\|03-服务端逻辑与Agent计算环境]]
-
----
-
-## 📚 使用建议
-
-1. **新手入门路径：** 01 → 02 → 03 → 05
-2. **桌面应用开发路径：** 01 → 02 → 03 → 04
-3. **AI 应用部署路径：** 01 → 03 → 05
-4. **深入理解路径：** 按需查阅各专项文档的详细章节
-
----
-
-## 🎯 知识库特色
-
-- ✅ **体系化结构**：从宏观架构到微观实现，逻辑清晰
-- ✅ **实战导向**：聚焦 2026 年 AI 全栈开发的实际需求
-- ✅ **深度解析**：拒绝结论化，深入讲解物理本质与运行机制
-- ✅ **关联索引**：Obsidian 双链结构，便于知识关联与检索
-- ✅ **信息完整**：保留所有重要细节，必要时进行补充说明
 
 ---
 [[Home\|Home]]
