@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/operating-systems-three-easy-pieces/moc/","noteIcon":""}
 ---
 
-![os cover.png](/img/user/Operating%20Systems-%20Three%20Easy%20Pieces/picture/os%20cover.png)
 # 📍 MOC — 《操作系统导论：三维度理解计算机系统》
 
 > **本知识库致敬**

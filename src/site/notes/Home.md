@@ -26,11 +26,25 @@ _从智能体搭建到大脑按需切换的工程实践指南。_
 - **定位**：Claude Code 智能体完整技术体系。涵盖环境搭建、基础操作、Token 优化、国产大模型适配（cc-switch）、多脑调度配置及故障排除，实现高性能与低成本的平衡。
 
 
+###  [[远程控制-remote-control/远程控制-MOC\|手机远程控制]]
+
+_从理论到实操的手机远程控制电脑完整知识体系。_
+
+- **定位**：涵盖 WebSocket、PTY、SSH、网络穿透、会话持久化等核心原理，以及 Tailscale + Termius 从零配置步骤，形成"先理解原理，再上手操作"的双层学习路径。
+
+
 ###  [[Full-Stack_AI_Engineering/Full-Stack AI Engineering\|Full-Stack AI Engineering]]
 
 _2026 AI 全栈开发核心知识体系。_
 
 - **定位**：从研发到部署的硬核实战。涵盖 Web 架构、现代前端、后端计算环境、桌面端 Electron 架构及 AI 云原生部署托管。
+
+
+###  [[ai-web-knowledge/MOC-AI全栈开发部署知识库\|AI 全栈开发部署知识库]]
+
+_从技术选型到生产部署的完整工程实践体系。_
+
+- **定位**：涵盖架构设计、开发环境、安全防御、服务器搭建、Docker 部署、CI/CD 自动化、数据存储与扩展知识，形成从"本地开发"到"云端上线"的全链路知识体系。
 
 
 ### [[multi-agent协作框架/Multi-Agent协作框架-MOC\|Multi-Agent协作工作流框架]]
